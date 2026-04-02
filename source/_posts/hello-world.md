@@ -1,7 +1,11 @@
 ---
-title: Hello World
+三十学步
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+人云三十而立,他喻三十学步。
+
+ 陈琰，从一位普普通通的科技玻璃仪器技工,走上大学的讲坛,其间虽有着难言的奋斗艰辛，但更多的是对艺术执着追求的欢乐。在艺术创作的道路上，他不畏艰难,至今仍一步一个脚印地走着……
+
+
 
 ## Quick Start
 
